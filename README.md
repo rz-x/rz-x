@@ -13,9 +13,8 @@
 ```
 
 ### 🔬 Core Focus & Research
-- **AI Agent Security & Telemetry:** Runtime observability, prompt/tool-use guardrails, agent instrumentation (`agentsight`).
-- **Offensive Tooling & Fuzzing:** Network protocol fuzzing (IPv4/v6), anomaly discovery (`network-proto-fuzzer`).
-- **Threat Hunting & Malware Analysis:** Binary triage, behavioral reversing, threat intelligence.
+- **Threat Hunting & Malware Analysis:** PHP & JS + Binary triage, behavioral reversing, threat intelligence.
+- **AI Agent Security & Telemetry:** Runtime observability, prompt/tool-use guardrails, agent instrumentation.
 - **Infrastructure & Database Security:** Deep Linux, low-level networking, database resilience.
 - **Hardware / IoT Hacking:** RF, embedded exploration, wearables & custom firmware integration.
 
