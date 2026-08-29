@@ -6,7 +6,6 @@
 - 12+ years in cybersecurity: Purple Teaming, Threat Hunting & Malware Research
 - Linux • Network systems • Database Sec • Honeypots & Detection Engineering
 - Currently researching AI agentic systems & autonomous runtime security
-
 ```
 
 ### Core Focus & Research
