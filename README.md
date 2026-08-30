@@ -1,6 +1,6 @@
 # Radek (`rz-x`)
 
-> **Cybersecurity Guy & Researcher** | Purple Teaming | Threat Hunting | Malware Analysis | AI Agentic Security
+> **Cybersecurity Guy** | Purple Teaming | Threat Hunting | Malware Analysis | AI Agentic Security
 
 ```
 ###
