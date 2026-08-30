@@ -3,10 +3,13 @@
 > **Cybersecurity Guy** | Purple Teaming | Threat Hunting | Malware Analysis | AI Agentic Security
 
 ```
-###
-# 12+ years in cybersecurity: Purple Teaming, Threat Hunting & Malware Research
-# Linux • Network systems • Database Sec • Honeypots & Detection Engineering
-###
+########
+#
+#  12+ years in cybersecurity: Purple Teaming, Threat Hunting & Malware Research
+#  Linux • Network systems • Database Sec • Honeypots & Detection Engineering
+#
+########
+
 - Currently researching AI agentic systems & autonomous runtime security
 ```
 
