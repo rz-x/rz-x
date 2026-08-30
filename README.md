@@ -18,6 +18,6 @@
 - **Malware Analysis & RE:** Sample triage, behavioral analysis, threat intelligence.
 - **Threat Hunting & Detection Engineering:** Honeypot design, telemetry collection, detection rule authoring/AI-automating.
 - **Networking & Database Sec:** Linux environments, DBMS hardening & scanning, low-level network analysis.
-- **Hardware & IoT & Radio RTL:** Pure curiosity and pleasure.
+- **Hardware & IoT & Radio RTL:** Pure curiosity & pleasure.
 
 
