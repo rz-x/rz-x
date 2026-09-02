@@ -20,5 +20,6 @@
 - **Networking & Database Sec:** Linux environments, DBMS hardening & scanning, low-level network analysis.
 - **Hardware & IoT & Radio RTL:** Pure curiosity & pleasure.
 
-### Nous referral - if you wish to support me
-- https://portal.nousresearch.com/r/radek-zdonczyk
+### Nous referral 
+- if you wish to support me and not yet joined Nous:
+  * https://portal.nousresearch.com/r/radek-zdonczyk
